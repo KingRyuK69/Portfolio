@@ -12,7 +12,7 @@
     })
 })();
 var typed = new Typed(".typing",{
-    strings: ["Intern @ Persistent", "Azure Admin @ ITP LLC", "Full Stack Dev", "Azure Dev", "CSE Undergrad","3x Azure Certified","Software Dev"],
+    strings: ["Alpha Microsoft LSA", "Intern @ Persistent", "Azure Admin @ ITP LLC", "Full Stack Dev", "Azure Dev", "CSE Undergrad","3x Azure Certified"],
     typeSpeed: 100,
     backSpeed: 100,
     loop:true,
